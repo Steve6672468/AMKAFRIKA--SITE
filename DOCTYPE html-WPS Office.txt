@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMKAFRIKA - Plateforme d'Épargne et Crédit</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur AMKAFRIKA</h1>
+        <p>Rechargez et gérez vos fonds via Airtel Money</p>
+    </header>
+
+    <section>
+        <h2>Nos Services</h2>
+        <ul>
+            <li>Recharge via Airtel Money</li>
+            <li>Retrait en liquide à Goma</li>
+            <li>Bloquez votre argent pour épargne</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contactez-nous au 0981209706 pour plus d'informations.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
